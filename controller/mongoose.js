@@ -21,13 +21,3 @@ async function fire(){
 fire();
 
 module.exports = fire;
-
-
-
-
-
-
-
-
-
-
